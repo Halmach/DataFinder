@@ -20,7 +20,7 @@ namespace DataFinder.DAL
                 new FileEntity(Guid.NewGuid(), "Отчет.docx", Environment.CurrentDirectory + "/Docs/Отчет.docx"),
                 new FileEntity(Guid.NewGuid(), "Книга1.xls", Environment.CurrentDirectory +  "/Docs/Книга1.xls"),
                 new FileEntity(Guid.NewGuid(), "Фото на документы.jpeg", Environment.CurrentDirectory + "/Docs/Фото на документы.jpeg"),
-                new FileEntity(Guid.NewGuid(), "Ярлык.lnk", Environment.CurrentDirectory + "/Docs/Ярлык.lnk"),
+                new FileEntity(Guid.NewGuid(), "Архив.zip", Environment.CurrentDirectory + "/Docs/Архив.zip"),
             };
         }
 
